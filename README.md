@@ -1,6 +1,6 @@
 # SlotBot: Hacking slot machines to win the jackpot using a hidden camera and brute-force search
 
-[Follow me on twitter](https://twitter.com/james_ough)
+[Follow me on Twitter](https://twitter.com/james_ough)
 
 So it turns out that there's a game on a specific brand of slot machine that's basically like an extreme version of Trivial Pursuit. It *also* turns out that the game ROM (containing all the answers) can be found online.
 
